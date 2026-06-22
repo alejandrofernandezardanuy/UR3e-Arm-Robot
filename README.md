@@ -2,7 +2,8 @@
 
 Python script for automated pick-and-place palletizing using a **UR3e** robot arm and an **OnRobot RG2** gripper. Transfers 4 stacked pieces from position A to position B, managing stack height dynamically on both ends.
 
-Viedo Demo: [https://drive.google.com/file/d/1zRhHxwBk3I1x2xsgBs_HITWXUZJ_FTaS/view?usp=drive_link](https://youtube.com/shorts/8625WNETuJQ)
+Viedo Demo: https://youtube.com/shorts/8625WNETuJQ
+
 
 
 ## Requirements
